@@ -1,3 +1,3 @@
 # OpenTravelDespesa
 
-CRUD usando Spring JPA, Maven e MySql
+API RESTful CRUD usando Spring JPA, Maven e MySql.
